@@ -11,4 +11,8 @@ Q:How many times does the loop body run each frame, once the x and y arrays are 
 5 times
 
 Q:What are two ways of increasing the spacing between rings?
+By changing the increment of the for statement of i and by changeing the "1 + (x.length - 1)" part in ellipses will increasing the spacing between rings.
+
+Q:How can you make the ellipse trail longer?
+Adding more circles? (sorry I really don't know)
 
